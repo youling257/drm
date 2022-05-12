@@ -384,6 +384,3 @@ if with_man_pages
   subdir('man')
 endif
 subdir('data')
-if with_tests
-  subdir('tests')
-endif
